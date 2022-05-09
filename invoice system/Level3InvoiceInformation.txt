@@ -1,0 +1,57 @@
+H
+2663
+"Brand Property Improvementsss"
+"2898 HOWDEN CRESCENT"
+Dieppe
+NB
+"E8O 2I9"
+"Jun 18, 2018"
+PC
+D
+BS01
+"Century of Bags, A"
+1
+43.00
+D
+GS02
+"Art of the Boot"
+2
+55.00
+H
+9910
+"Wilde Thyme"
+"149 HENDERSON DRIVE"
+Thompson
+MB
+"R6H 1W2"
+"Jun 16, 2018"
+RP
+D
+KR05
+"Complete Footwear Dictionary"
+1
+90.00
+H
+8731
+"Weinstein Group, The"
+"1412 HOLLAND CRESCENT"
+Mirabel
+QC
+"G0Y 4D8"
+"Jun 18, 2018"
+XP
+D
+KR04
+"Life of the Foot & Shoe, The"
+1
+38.00
+D
+GS02
+"Art of the Boot"
+3
+55.00
+D
+DE05
+"Pantone View Colour Planner-Annual"
+1
+1400.00

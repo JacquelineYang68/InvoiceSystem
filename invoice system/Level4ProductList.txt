@@ -1,0 +1,60 @@
+AB01
+Heavenly Soles
+45.00
+AB02
+Shoes-Objects of Art
+75.00
+ABR1
+Judith Leiber-The Artful Handbag
+59.00
+BS01
+Century of Bags, A
+43.00
+BS02
+Century of Shoes, A
+55.00
+CT
+Clean Technology and Waste Management
+850.00
+DE05
+Pantoneи View Colour Planner-Annual
+1400.00
+DE20
+Leather Colour Concepts/Spring 2018
+480.00
+FA03
+Profitable Footwear Retailing
+50.00
+FI07
+Footwear Tariffs & Trade Regulations: Major Foreign Markets
+125.00
+FI10
+Shoestats
+350.00
+FP
+Finishing Process
+850.00
+FT25
+Shoes
+45.00
+GS01
+Cowboy Boot Book
+45.00
+GS02
+Art of the Boot
+55.00
+KR01
+Complete Handbook of Leathercrafting
+55.00
+KR02
+Physical Chemistry of Leather Making
+95.00
+KR03
+Practical Leather Technology
+65.00
+KR04
+Life of the Foot & Shoe, The
+38.00
+KR05
+Complete Footwear Dictionary
+90.00
